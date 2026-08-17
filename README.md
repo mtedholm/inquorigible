@@ -17,7 +17,14 @@ In the course of volunteer OSINT work I performed on a missing persons (MP) case
 ### August 12, 2026
 
 1. I was finally able to successfully export my presentation slides as a nice, lean, 160 mb `.zip`. I believe that those will be posted somehow with DEF CON materials, but if not, I guess I'll put them here.
-2. One theme I had hoped to emphasize in my talk was the need for better OSINT tools for Quora (because, as I hope I made clear, Quora _does_ matter in OSINT). I'm looking over the "Quorawler" tool I made last year for that MP case. I've made a lot of progress in my ✨coding journey✨ since then, and I wrote it in Python 3.12, so I want to refactor it, if not just completely rebuild it; the new version will use 3.14 (how can I resist pi versioning?!) and have better separation of concerns so it'll be easier to add new features. 
+2. One theme I had hoped to emphasize in my talk was the need for better OSINT tools for Quora (because, as I hope I made clear, Quora _does_ matter in OSINT). I'm looking over the "Quorawler" tool I made last year for that MP case. I've made a lot of progress in my ✨coding journey✨ since then, and I wrote it in Python 3.12, so I want to refactor it, if not just completely rebuild it; the new version will use 3.14 (how can I resist pi versioning?!) and have better separation of concerns so it'll be easier to add new features.
+
+### August 16, 2026
+
+1. Added a folder for `slides`
+2. Added the obligatory `README.md` for said folder.
+3. Continuing to explore GraphQL
+4. Continuing to report quorrifying content (a placebo effect is still an effect, I guess)
 
 ## Security Issues and Proof-of-Concept
 _Coming soon to a repo near you!_
