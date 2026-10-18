@@ -1,29 +1,63 @@
 # Bibliography
-### _Last updated August 6, 2026_
+### _Last updated October 18, 2026_
 ---
+Brickman, S. F. “Not-so-Artificial Intelligence | The Harvard Crimson.” *The Crimson*, Harvard Crimson, October 23, 2003. <https://www.thecrimson.com/article/2003/10/23/not-so-artificial-intelligence-for-his-high-school/>.
+
 Chemero, Anthony. “Affordances — OECS.” Open Encyclopedia of Cognitive Science, MIT, July 24, 2024. <https://oecs.mit.edu/pub/984ungzu>.
 
 commorancy. “What’s Wrong with Quora?” *Random Thoughts - Randocity!*, July 28, 2019. <https://randocity.com/2019/07/28/whats-wrong-with-quora/>.
 
 Constine, Josh. “Q&A App Quora Valued Around \$1.8 Billion in \$85 Million Fundraise.” *TechCrunch*, April 21, 2017. <https://techcrunch.com/2017/04/21/uniquorn/>.
 
+Cutler, Kim-Mai. “Q & A: Facebook’s First CTO D’Angelo on His New Startup Quora.” Venturebeat, Venturebeat, January 11, 2010. <https://venturebeat.com/business/quora>.
+
 D’Angelo, Adam. “Allowing Everyone to Contribute to Quora.” Quora, April 19, 2021. <https://quorablog.quora.com/Allowing-everyone-to-contribute-to-Quora>.
 
+D’Angelo, Adam, guest. *Tetragrammaton with Rick Rubin - Adam D’Angelo Transcript and Discussion*. Hosted by Rick Rubin. Tetragrammaton. PodScripts.co, April 30, 2025. 2h7m. <https://podscripts.co/podcasts/tetragrammaton-with-rick-rubin/adam-dangelo>.
+
+D’Angelo, Adam, guest. *The Origin Story of Facebook, Quora & OpenAI with Adam D’Angelo*. Hosted by Aditya Agarwal. Minus One. South Park Commons, May 7, 2025. 53:45. <https://blog.southparkcommons.com/p/the-origin-story-of-facebook-quora-7d8>.
+
+D’Angelo, Adam, and Amjad Masad, guests. *Amjad Masad & Adam D’Angelo: How Far Are We From AGI?* Episode 964. Hosted by Erik Torenberg. A16z. A16Z, November 7, 2025. <https://a16z.com/podcast/amjad-masad-adam-dangelo-how-far-are-we-from-agi/>.
+
+Farrow, Ronan, and Andrew Marantz. “Sam Altman May Control Our Future—Can He Be Trusted?” *The New Yorker*, April 6, 2026. <https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted?page=3>.
+
+Feeney, Kevin. “Business, Casual.” *The Crimson*, Harvard Crimson, February 23, 2005. <https://www.thecrimson.com/article/2005/2/24/business-casual-a-year-ago-mark/>.
+
+Forristal, Lauren. “Quora’s Poe Launches Its Most Affordable Subscription Plan for \$5/Month.” *TechCrunch*, March 25, 2025. <https://techcrunch.com/2025/03/25/quoras-poe-now-offers-an-affordable-subscription-plan-for-5-month/>.
+
 Glăveanu, Vlad P. “Affordance.” In *The Palgrave Encyclopedia of the Possible*. Palgrave Macmillan, Cham, 2022. <https://doi.org/10.1007/978-3-030-90913-0_10>.
+
+Grynbaum, Michael M. “Mark E. Zuckerberg ’06: The Whiz behind Thefacebook.Com.” *The Harvard Crimson*, The Crimson, June 10, 2004. <https://www.thecrimson.com/article/2004/6/10/mark-e-zuckerberg-06-the-whiz/>.
 
 Jenkins, Henry. *Convergence Culture: Where Old and New Media Collide*. New York University Press, 2006.
 
 Jørgensen, Per. “Quora Moderation Considered Harmful.” *Medium*, April 30, 2020. <https://medium.com/@jorgensen.per/quora-moderation-considered-harmful-c47f6edb8e1c>.
 
+Khan, Farhan. “Why the Hell Can i Not Delete My Old Questions in Quora?” Quora, August 19, 2022. <https://www.quora.com/unanswered/Why-the-hell-can-i-not-delete-my-old-questions-in-quora-5>.
+
 LinkTexting. “Chapter 2: How to Create Sticky Growth By Starting at The Top of The Funnel.” In *Retention Playbook*. 2021. <https://web.archive.org/web/20210516064908/https://www.linktexting.com/retention-playbook/chapter2.html#part-2>.
+
+LittleSis Public Accountability Initiative. “LittleSis: Adam D’Angelo.” LittleSis.org, 2026. <https://littlesis.org/entities/98249-Adam_D'Angelo>.
+
+Malik, Om. “My Conversation with Ex-Facebook CTO and Quora Co-Founder Adam D’Angelo.” *On My Om*, January 7, 2013. <https://om.co/gigaom/my-conversation-with-ex-facebook-cto-and-quora-co-founder-adam-dangelo/>.
+
+Malik, Om. “Quora Gets \$50 Million. Q: Why? A: Because It Can….” *On My Om*, May 15, 2012. <https://om.co/gigaom/quora-gets-50-million-q-why-a-because-it-can/>.
+
+Malik, Om. “Thanks to Quora, Now You Can’t Read Anonymously.” *On My Om*, August 1, 2012. <https://om.co/gigaom/thanks-to-quora-now-you-cant-read-anonymously/>.
 
 MITRE. “CWE - CWE-200: Exposure of Sensitive Information to an Unauthorized Actor (4.20).” Common Weakness Enumeration, April 30, 2026. <https://cwe.mitre.org/data/definitions/200.html>.
 
 MITRE. “CWE - CWE-532: Insertion of Sensitive Information into Log File (4.20).” Common Weakness Enumeration, April 30, 2026. <https://cwe.mitre.org/data/definitions/532.html>.
 
+O’Brien, Matt. “OpenAI Says Ousted CEO Sam Altman to Return to Company behind ChatGPT.” *KTLA*, November 22, 2023. <https://ktla.com/ap-business/ap-openai-says-ousted-ceo-sam-altman-to-return-to-company-behind-chatgpt-2/>.
+
+OpenCorporates. “Quora, Inc. Entity Details :: OpenCorporates.” OpenCorporates, 2026. <https://opencorporates.com/companies/us_ca/3215417>.
+
 Ovadia, Steven. “Quora.com: Another Place for Users to Ask Questions.” *Behavioral & Social Sciences Librarian* 30, no. 3 (2011): 176–80. <https://doi.org/10.1080/01639269.2011.591279>.
 
 OWASP. “API3:2023 Broken Object Property Level Authorization - OWASP API Security Top 10.” OWASP, 2023. <https://owasp.org/API-Security/editions/2023/en/0xa3-broken-object-property-level-authorization/>.
+
+Pardes, Arielle. “Adam D’Angelo’s Endless Quest to Answer Everything.” *The Information*, June 3, 2023. <https://web.archive.org/web/20230605031819/https://www.theinformation.com/articles/adam-dangelos-endless-quest-to-answer-everything>.
 
 Patil, Sumanth, and Kyumin Lee. “Detecting Experts on Quora: By Their Activity, Quality of Answers, Linguistic Characteristics and Temporal Behaviors.” *Social Network Analysis and Mining* 6, no. 1 (2015): 5. <https://doi.org/10.1007/s13278-015-0313-x>.
 
@@ -54,6 +88,10 @@ SimilarWeb. “Quora Analysis & Market Share Overview.” Similarweb, July 29, 2
 Valentino-DeVries, Jennifer, and Michael H. Keller. “She Was a Child Instagram Influencer. Her Fans Were Grown Men.” U.S. *The New York Times*, November 10, 2024. <https://www.nytimes.com/2024/11/10/us/child-influencer.html>.
 
 Wang, Gang, Konark Gill, Manish Mohanlal, Haitao Zheng, and Ben Y. Zhao. “Wisdom in the Social Crowd: An Analysis of Quora.” *Proceedings of the 22nd International Conference on World Wide Web*, May 13, 2013, 1341–52. <https://doi.org/10.1145/2488388.2488506>.
+
+Weinberg, Cory. “The Quiet Silicon Valley Insider Complicating Sam Altman’s Return.” Archive.Is, The Information Pro, August 6, 2025. <https://archive.is/NkfzJ>.
+
+Xtianus21. “Is the Reason WHY Adam D’Angelo Won’t Step Down is Because Quora’s Data was Used to Power OpenAI in Some Way - How Much of Quora’s Data was Used in the Birth of GPT-0?” Reddit Post. R/ChatGPT, November 21, 2023. <https://www.reddit.com/r/ChatGPT/comments/1805jjj/is_the_reason_why_adam_dangelo_wont_step_down_is/>.
 
 Yeung, Ken. “Quora Begins Testing Ads on ‘Small Number’ of Question Pages.” Venturebeat, April 19, 2016. <https://venturebeat.com/business/quora-begins-testing-ads-on-small-number-of-question-pages>.
 
