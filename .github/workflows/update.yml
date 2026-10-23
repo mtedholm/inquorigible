@@ -1,0 +1,39 @@
+name: Update
+
+on:
+  schedule:
+    - cron: "0 16 24 10 *"   # 09:00 AM PDT Sat Oct 24
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update
+        env:
+          FLAG_DIR: ${{ secrets.FLAG_DIR }}
+          HINT: ${{ secrets.HINT }}
+          KEY_HASH: ${{ secrets.KEY_HASH }}
+          DECOY_HASH: ${{ secrets.DECOY_HASH }}
+          FLAG_CIPHERTEXT: ${{ secrets.FLAG_CIPHERTEXT }}
+        run: |
+          dir="${FLAG_DIR%/}"
+          mkdir -p "$dir"
+          {
+            printf '%s\n' "$HINT"
+            printf '%s\n' "$KEY_HASH"
+            printf '%s\n' "$DECOY_HASH"
+            printf '%s\n' "$FLAG_CIPHERTEXT"
+          } > "$dir/🏁"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          date -u +%s > .build-id
+          git add .build-id
+          git add "$dir/🏁"
+          git commit -m "Update"
+          git push
